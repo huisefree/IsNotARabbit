@@ -6,3 +6,6 @@ afasdfa  33333333333
 master
 hot-fix
 11111111111
+
+
+github更新，并且使用gitee拉取更新信息
